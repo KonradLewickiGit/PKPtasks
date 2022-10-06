@@ -5,7 +5,6 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.Scanner;
 
-
 public class Zadanie3 {
     public void getPosts() {
         System.out.println("next - next quote");
@@ -31,6 +30,5 @@ public class Zadanie3 {
         } catch (IOException ex) {
             System.err.println("error");
         }
-
     }
 }
