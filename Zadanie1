@@ -1,0 +1,7 @@
+A:
+Klasę abstrakcyjną używamy, aby uniknąc pisania kodu spełniającego taką samą funkcję kilka razy.
+Interfejsy wykozystujemy, gdy klasy mają wykonywać tą samą czynność, ale w inny sposób. (np.: pobrać dane, ale z róznych źródeł)
+
+B:
+Tablica ma ograniczony rozmiar, a lista nie jest ograniczona.
+W tablicy miejsce w pamięci przypisywane jest podczas kompilacji, a w liście podczas wykonywania programu.
